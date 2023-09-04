@@ -1,13 +1,5 @@
 0x04. Files manager
-Back-end
-JavaScript
-ES6
-NoSQL
-MongoDB
-Redis
-NodeJS
-ExpressJS
-Kue# 
+``Back-end``|``JavaScript``|``ES6``|``NoSQL``|``MongoDB``|``Redis``|``NodeJS``|``ExpressJS``|``Kue# ``
 
 #alx-files_manager
 This project is a summary of this back-end trimester: authentication, NodeJS, MongoDB, Redis, pagination and background processing.
